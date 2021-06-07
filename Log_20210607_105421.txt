@@ -1,0 +1,30 @@
+[3] 10:54:21: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[3] 10:54:21: Log level: 4
+[3] 10:54:21: Release: 29.12.13.0
+[3] 10:54:22: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 10:54:24: No service discovery configured.
+[3] 10:54:24:  - CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 14.2.0.256 (36571)
+[3] 10:54:24:  + DistributedExecutionAddIn: DistributedExecutionAddIn 14.2.0.256 (36303)
+[3] 10:54:24:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 14.2.0.256 (36303)
+[3] 10:54:24:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 14.2.0.256 (36303)
+[3] 10:54:24:  + IntegrationManagementAddIn: IntegrationManagementAddIn 14.2.0.256 (36422)
+    - : QTestIntegration 14.2.0.149 (149)
+    + : SAPSolutionManagerIntegration 14.2.0.149 (149)
+[3] 10:54:24: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:54:24: Searcher found 0 results in 68,3414 ms
+[3] 10:54:24:  + OptIntAddIn: OptIntAddIn 14.2.0.256 (36303)
+[3] 10:54:24:  + QTestIntegrationAddIn: QTestIntegrationAddIn 14.2.0.256 (36486)
+[3] 10:54:24:  + RemoteControl: RemoteControlAddIn 14.2.0.256 (36303)
+[3] 10:54:24:  + Reporting: ReportingAddIn 14.2.0.256 (36303)
+[3] 10:54:24:  + ReportingUI: ReportingUIAddIn 14.2.0.256 (36303)
+[3] 10:54:24:  - RequirementsManagementAddIn: RequirementsManagement 14.2.0.256 (36476)
+[3] 10:54:24:  - RequirementsManagementUIAddIn: RequirementsManagementUI 14.2.0.256 (36303)
+[3] 10:54:24:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 14.2.0.256 (36583)
+[3] 10:54:24:  - TestCaseDesign: TestCaseDesign 14.2.0.256 (36303)
+[3] 10:54:24:  - ControlFlowDiagram: TestCaseVisualizationAddIn 14.2.0.256 (36303)
+[3] 10:54:24:  + XDefinitions: XDefinitions 14.2.0.256 (36576)
+[3] 10:54:24:  + XDefinitionsUI: XDefinitionsUI 14.2.0.256 (36460)
+[3] 10:54:24: Search started on 'AS1 Training' for query '=>SUBPARTS:TCFolder[(PossibleContent=?"ExecutionList") AND (ContinuousIntegrationBuildRootFolder=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 10:54:24: Searcher found 0 results in 182,1777 ms
+[3] 10:54:24: Closing Workspace
+[3] 10:54:25: Log closed!

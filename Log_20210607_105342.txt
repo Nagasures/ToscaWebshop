@@ -1,0 +1,28 @@
+[3] 10:53:42: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[3] 10:53:42: Log level: 4
+[3] 10:53:42: Release: 29.12.13.0
+[3] 10:53:42: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 10:53:45: No service discovery configured.
+[3] 10:53:45:  - CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 14.2.0.256 (36571)
+[3] 10:53:45:  + DistributedExecutionAddIn: DistributedExecutionAddIn 14.2.0.256 (36303)
+[3] 10:53:45:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 14.2.0.256 (36303)
+[3] 10:53:45:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 14.2.0.256 (36303)
+[3] 10:53:45:  + IntegrationManagementAddIn: IntegrationManagementAddIn 14.2.0.256 (36422)
+    - : QTestIntegration 14.2.0.149 (149)
+    + : SAPSolutionManagerIntegration 14.2.0.149 (149)
+[3] 10:53:45: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:53:45: Searcher found 0 results in 79,7899 ms
+[3] 10:53:45:  + OptIntAddIn: OptIntAddIn 14.2.0.256 (36303)
+[3] 10:53:45:  + QTestIntegrationAddIn: QTestIntegrationAddIn 14.2.0.256 (36486)
+[3] 10:53:45:  + RemoteControl: RemoteControlAddIn 14.2.0.256 (36303)
+[3] 10:53:45:  + Reporting: ReportingAddIn 14.2.0.256 (36303)
+[3] 10:53:45:  + ReportingUI: ReportingUIAddIn 14.2.0.256 (36303)
+[3] 10:53:45:  - RequirementsManagementAddIn: RequirementsManagement 14.2.0.256 (36476)
+[3] 10:53:45:  - RequirementsManagementUIAddIn: RequirementsManagementUI 14.2.0.256 (36303)
+[3] 10:53:45:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 14.2.0.256 (36583)
+[3] 10:53:45:  - TestCaseDesign: TestCaseDesign 14.2.0.256 (36303)
+[3] 10:53:45:  - ControlFlowDiagram: TestCaseVisualizationAddIn 14.2.0.256 (36303)
+[3] 10:53:45:  + XDefinitions: XDefinitions 14.2.0.256 (36576)
+[3] 10:53:45:  + XDefinitionsUI: XDefinitionsUI 14.2.0.256 (36460)
+[3] 10:53:50: Closing Workspace
+[3] 10:53:50: Log closed!
