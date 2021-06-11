@@ -1,0 +1,152 @@
+[3] 12:44:28: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[3] 12:44:28: Log level: 4
+[3] 12:44:28: Release: 14.2.0.36604
+[3] 12:44:30: No service discovery configured.
+[3] 12:44:30:  - CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 14.2.0.256 (36571)
+[3] 12:44:30:  + DistributedExecutionAddIn: DistributedExecutionAddIn 14.2.0.256 (36303)
+[3] 12:44:30:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 14.2.0.256 (36303)
+[3] 12:44:30:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 14.2.0.256 (36303)
+[3] 12:44:30:  + IntegrationManagementAddIn: IntegrationManagementAddIn 14.2.0.256 (36422)
+    - : QTestIntegration 14.2.0.149 (149)
+    + : SAPSolutionManagerIntegration 14.2.0.149 (149)
+[3] 12:44:30: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:44:30: Searcher found 0 results in 166,5528 ms
+[3] 12:44:31:  + OptIntAddIn: OptIntAddIn 14.2.0.256 (36303)
+[3] 12:44:31:  + QTestIntegrationAddIn: QTestIntegrationAddIn 14.2.0.256 (36486)
+[3] 12:44:31:  + RemoteControl: RemoteControlAddIn 14.2.0.256 (36303)
+[3] 12:44:31:  + Reporting: ReportingAddIn 14.2.0.256 (36303)
+[3] 12:44:31:  + ReportingUI: ReportingUIAddIn 14.2.0.256 (36303)
+[3] 12:44:31:  + RequirementsManagementAddIn: RequirementsManagement 14.2.0.256 (36476)
+[3] 12:44:31:  + RequirementsManagementUIAddIn: RequirementsManagementUI 14.2.0.256 (36303)
+[3] 12:44:31:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 14.2.0.256 (36583)
+[3] 12:44:31:  + TestCaseDesign: TestCaseDesign 14.2.0.256 (36303)
+[3] 12:44:31:  + ControlFlowDiagram: TestCaseVisualizationAddIn 14.2.0.256 (36303)
+[3] 12:44:31:  + XDefinitions: XDefinitions 14.2.0.256 (36576)
+[3] 12:44:31:  + XDefinitionsUI: XDefinitionsUI 14.2.0.256 (36460)
+[3] 12:44:31: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[4] 12:44:36:  ShowStatusInfo: 'Ready'
+[4] 12:44:47:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:44:47:  ShowStatusInfo: 'Ready'
+[4] 12:44:47:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:44:47:  ShowStatusInfo: 'Ready'
+[4] 12:44:47:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:44:47:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:44:48:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:44:48:  ShowStatusInfo: 'Ready'
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:44:48:  ShowStatusInfo: 'Ready'
+[4] 12:44:48:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:44:48:  ShowStatusInfo: 'Ready'
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:44:48:  ShowStatusInfo: 'Ready'
+[4] 12:44:48:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:44:48:  ShowStatusInfo: 'Refresh all finished'
+[0] 12:44:49: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 12:44:49: OpenWorkspace took 00:00:21.1964834 to finish
+[4] 12:44:53:  ShowStatusInfo: 'Ready'
+[4] 12:44:53:  ShowStatusInfo: '1 object selected'
+[4] 12:44:53:  ShowStatusInfo: 'Ready'
+[4] 12:44:53:  ShowStatusInfo: '1 object selected'
+[4] 12:44:58:  ShowStatusInfo: 'Ready'
+[4] 12:45:00:  ShowStatusInfo: '1 object selected'
+[4] 12:45:05:  ShowStatusInfo: 'Ready'
+[4] 12:45:07:  ShowStatusInfo: '1 object selected'
+[4] 12:45:08:  ShowStatusInfo: 'Ready'
+[4] 12:45:09:  ShowStatusInfo: '1 object selected'
+[4] 12:45:09:  ShowStatusInfo: 'Ready'
+[4] 12:45:10:  ShowStatusInfo: '1 object selected'
+[4] 12:45:12:  ShowStatusInfo: 'Ready'
+[4] 12:45:13:  ShowStatusInfo: '1 object selected'
+[4] 12:45:16:  ShowStatusInfo: 'Ready'
+[4] 12:45:17:  ShowStatusInfo: '1 object selected'
+[4] 12:45:17:  ShowStatusInfo: 'Ready'
+[4] 12:45:18:  ShowStatusInfo: '1 object selected'
+[4] 12:45:19:  ShowStatusInfo: 'Ready'
+[4] 12:45:21:  ShowStatusInfo: '1 object selected'
+[4] 12:45:22:  ShowStatusInfo: 'Ready'
+[4] 12:45:23:  ShowStatusInfo: '1 object selected'
+[4] 12:45:28:  ShowStatusInfo: 'Ready'
+[4] 12:45:31:  ShowStatusInfo: '1 object selected'
+[4] 12:45:32:  ShowStatusInfo: 'Ready'
+[4] 12:45:32:  ShowStatusInfo: '1 object selected'
+[4] 12:45:33:  ShowStatusInfo: 'Ready'
+[4] 12:45:33:  ShowStatusInfo: '1 object selected'
+[4] 12:45:34:  ShowStatusInfo: 'Ready'
+[4] 12:45:38:  ShowStatusInfo: '1 object selected'
+[4] 12:45:40:  ShowStatusInfo: 'Ready'
+[4] 12:45:44:  ShowStatusInfo: '1 object selected'
+[3] 12:45:44: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 12:45:44: Searcher found 0 results in 6,3559 ms
+[3] 12:45:44: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 12:45:44: Searcher found 0 results in 2,9921 ms
+[4] 12:45:44:  ShowStatusInfo: 'Ready'
+[3] 12:45:49: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 12:45:49: Searcher found 0 results in 0 ms
+[4] 12:45:49:  ShowStatusInfo: '1 object selected'
+[3] 12:45:49: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 12:45:49: Searcher found 0 results in 0,6041 ms
+[4] 12:45:49:  ShowStatusInfo: 'Ready'
+[3] 12:45:53: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 12:45:53: Searcher found 0 results in 0 ms
+[4] 12:45:53:  ShowStatusInfo: '1 object selected'
+[3] 12:45:53: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 12:45:53: Searcher found 0 results in 0,3224 ms
+[4] 12:45:54:  ShowStatusInfo: 'Ready'
+[4] 12:45:58:  ShowStatusInfo: '1 object selected'
+[4] 12:46:00:  ShowStatusInfo: 'Ready'
+[4] 12:46:00:  ShowStatusInfo: '1 object selected'
+[4] 12:46:05:  ShowStatusInfo: 'Ready'
+[4] 12:46:06:  ShowStatusInfo: '1 object selected'
+[4] 12:46:07:  ShowStatusInfo: 'Ready'
+[4] 12:46:07:  ShowStatusInfo: '1 object selected'
+[4] 12:46:08:  ShowStatusInfo: 'Ready'
+[4] 12:46:08:  ShowStatusInfo: '1 object selected'
+[4] 12:46:13:  ShowStatusInfo: 'Ready'
+[4] 12:46:14:  ShowStatusInfo: '1 object selected'
+[4] 12:46:15:  ShowStatusInfo: 'Ready'
+[4] 12:46:15:  ShowStatusInfo: '1 object selected'
+[4] 12:46:16:  ShowStatusInfo: 'Ready'
+[4] 12:46:17:  ShowStatusInfo: '1 object selected'
+[4] 12:46:20:  ShowStatusInfo: 'Ready'
+[4] 12:46:20:  ShowStatusInfo: '1 object selected'
+[4] 12:46:22:  ShowStatusInfo: 'Ready'
+[4] 12:46:35:  ShowStatusInfo: '1 object selected'
+[4] 12:46:36:  ShowStatusInfo: 'Ready'
+[4] 12:46:36:  ShowStatusInfo: '1 object selected'
+[4] 12:46:41:  ShowStatusInfo: 'Ready'
+[3] 12:37:12: Closing Workspace!
+[3] 12:37:13: Log closed!
